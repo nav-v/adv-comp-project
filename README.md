@@ -26,9 +26,9 @@ Notebook link:https://github.com/nav-v/adv-comp-project/blob/main/proposal.ipynb
 
 ## 4) What’s your target visualization? (include a picture)
 
-Target dashboard layout (2-panel, interactive):
-
 ![Target dashboard layout](diagram.jpeg)
+
+Target dashboard layout (2-panel, interactive):
 
 Top panel: “Top Movers (Last 7 Days) - shown above.
 
